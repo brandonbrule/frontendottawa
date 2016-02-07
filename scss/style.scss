@@ -4,16 +4,20 @@
 }
 
 body {
-  padding: 5%;
   color: #3d3d3d;
   position: relative;
   background: #fefefe;
   line-height: 1.5;
+  margin: 0;
   font-size: 1em;
   font-family: helvetica, arial, sans-serif;
+  
+  text-rendering: optimizeLegibility;
+}
+.container{
   margin: 0 auto;
   max-width: 665px;
-  text-rendering: optimizeLegibility;
+  padding: 5%;
 }
 
 h1, h2, h3 {
@@ -112,14 +116,20 @@ header h1, header h2 {
 
 .logo{
   border-radius: 50%;
-  float:left;
+  margin: 0 auto;
+  display: block;
   width:80px;
-  margin-right: 10px;
+  @media screen and (min-width: 500px){
+    float:left;
+    margin: 0 10px 0 0;
+  }
 }
 
 .col-2{
-  width: 50%;
-  float:left;
+  @media screen and (min-width: 500px){
+    width: 50%;
+    float:left;
+  }
 }
 .highlight{
   background: #1D1F20;
@@ -139,4 +149,10 @@ header h1, header h2 {
     color: #fff;
   }
 }
+
+footer.highlight{
+  margin: 0;
+}
+
+
 
