@@ -6,4 +6,4 @@ If this is your first #CodePenOttawa Meetup, come join a growing group of front 
 
 Hope to see you there!
 
-Follow us @FrontEndOttawa(https://twitter.com/frontendottawa)
+Follow us [@FrontEndOttawa](https://twitter.com/frontendottawa)
