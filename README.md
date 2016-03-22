@@ -1,5 +1,5 @@
-If this is your first [#CodePenOttawa](https://twitter.com/hashtag/CodePenOttawa?src=hash) Meetup, come join a growing group of front end development friends where we share code, have great speakers, and always offer a place to learn and ask questions.
+**[#CodePenOttawa](https://twitter.com/hashtag/CodePenOttawa)** is a meetup for front end developers and designers to share code, listen to great talks, and to learn and ask questions in a fun and friendly atmosphere!
 
-Hope to see you there!
+**Hope to see you there!**
 
-Follow us [@FrontEndOttawa](https://twitter.com/frontendottawa)
+Follow us [@FrontEndOttawa](https://twitter.com/frontendottawa).
